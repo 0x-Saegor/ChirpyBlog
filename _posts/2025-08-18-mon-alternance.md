@@ -35,15 +35,11 @@ Une fois le projet terminé je devais le déployer, pour cela j'ai utilisé Dock
 
 ### Mes autres activités
 
-##### **OVTX**
-
-Développement d'un panneau de configuration pour une solutions d'Alcatel, je fais du VueJS pour le front, du Go pour le back et j'utilise Ansible pour déployer automatiquement les modifications effectuées au DNS, DHCP et NTP sur toutes nos machines.
+Développement d'un panneau de configuration pour une solution d'Alcatel, je fais du VueJS pour le front, du Go pour le back et j'utilise Ansible pour déployer automatiquement les modifications effectuées au DNS, DHCP et NTP sur toutes nos machines.
 
 Ansible nous permet également de déployer automatiquement sur toutes les machines notre backend buildé et de relancer les services pour qu'il soit lancé. Nous avons prévu un système de Rollback en cas d'erreur lors du déploiement et un système de vérifications de checksum pour s'assurer qu'il y a une modification : s'il n'y en a pas il est inutile d'envoyer le fichier sur le serveur.
 
-##### **AssetTracking**
-
-Maintenance du service AssetTracking, fix de bugs sur le frontend, le mobile et le backend, mise à jour des paquets.
+Maintenance d'un service de l'entreprise, fix de bugs sur le frontend, le mobile et le backend, mise à jour des paquets.
 Le frontend est en VueJS avec un backend en JS (avec sails).
 
 Pour ce projet j'ai eu l'occasion de me former à React Native, l'application mobile fonctionnant entièrement sous cette techno.
