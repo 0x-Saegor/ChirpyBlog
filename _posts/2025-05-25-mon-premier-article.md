@@ -3,6 +3,7 @@ title: "Mon premier article"
 date: 2025-05-25 10:00:00 +0200
 categories: [blog]
 tags: [jekyll, chirpy]
+published: false
 ---
 
 Cet article sert de test pour vérifier que le thème Jekyll Chirpy fonctionne correctement.
